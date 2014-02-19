@@ -35,5 +35,5 @@ int main()
 	printf("%d ",d[i]);
     system("pause");
     return 0;
-
+  // modified for view in github
 }
