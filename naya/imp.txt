@@ -1,0 +1,11 @@
+LAN
+
+1.a limited area
+2.Ethernet over twisted pair cabling, and Wi-Fi are the two most common technologies currently used to build LANs.
+3.Larger LANs also contain a wide variety of network devices such as switches, firewalls, routers, load balancers, and sensors.
+
+WAN
+
+1.A wide area network (WAN) is a telecommunication network that covers a broad area (i.e., any network that links across metropolitan, regional, or national boundaries).
+
+2.sed to transmit data over long distances, and between different LANs, 
